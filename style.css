@@ -3,9 +3,9 @@
 }
 
 .main-page-wrapper {
+  display: inline-block;;
   text-align: center;
-  display: inline-block;
-
+  
 }
 
 .main-page-list {
