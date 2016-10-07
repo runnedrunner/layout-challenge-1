@@ -3,14 +3,14 @@
 }
 
 .main-page-wrapper {
-  display: inline-block;
   text-align: center;
 }
 
 .main-page-list {
   border: 3px solid black;
+  display: inline-block;
 }
 
 .main-page-item {	
-  display: inline-block;
+  line-height: 2;
 }
