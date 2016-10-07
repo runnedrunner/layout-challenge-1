@@ -1,5 +1,5 @@
 .topbar-item {
-  float: right;
+  display: inline-block;
 }
 
 .main-page-wrapper {
